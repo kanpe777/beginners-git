@@ -1,14 +1,8 @@
 ### とりあえずの指標
 
-### Lv 0
- * Git コマンドがインストールされている
+色々演習的なことを書こうと思ったけど、Gittutorialの日本語版があったので. . .
 
-### Lv 1
- * git stage(or add)
- * git commit
- * git status
- * git log
+[Learn Git Branching(日本語)](http://k.swd.cc/learnGitBranching-ja/)
+[Learn Git Branching(英語)](http://pcottle.github.io/learnGitBranching/)
 
-### Lv 2
- * git checkout
- * git branch
+
